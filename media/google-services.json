@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "833953818815",
+    "firebase_url": "https://an-nhu-spa-default-rtdb.firebaseio.com",
+    "project_id": "an-nhu-spa",
+    "storage_bucket": "an-nhu-spa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833953818815:android:9bab91639a6153802dfe0a",
+        "android_client_info": {
+          "package_name": "annhuspa.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHUzKVKMlp6s2O3PF3tTMX9S2G3_ry-sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
